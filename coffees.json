@@ -1,4 +1,7 @@
 {
   "coffeename": "Expresso Tradicional",
-  "url": "/assets/Expresso.png"
+  "url": "/assets/Expresso.png",
+  "categories":[
+    "Tradicional", "Meme"
+  ]
 }
