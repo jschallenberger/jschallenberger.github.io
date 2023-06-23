@@ -29,7 +29,7 @@
   {
     "coffeeName": "Expresso Gelado",
     "coffeeDescription":"Bebida preparada com café expresso e cubos de gelo",
-    "imageUrl": "/assets/cream.png",
+    "imageUrl": "/assets/coldcoffee.png",
     "categories":[
       "Tradicional", "Gelado"
     ],
